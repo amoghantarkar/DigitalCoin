@@ -1,2 +1,3 @@
-# BitcoinAnalyzer
+# DigitalCoin
+
 Cryptocurrency Analytics
